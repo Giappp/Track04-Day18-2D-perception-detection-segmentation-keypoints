@@ -16,3 +16,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv*/
 .DS_Store
+
+# Cache weights torchvision cho lần chạy local
+.lab-cache/
